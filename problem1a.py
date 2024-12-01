@@ -1,3 +1,5 @@
+# Problem 1a and 1b completed in ~20 minutes
+
 def convert_file_to_locations(file_path):
     with open(file_path, 'r') as file:
         location_str = file.read()
