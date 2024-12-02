@@ -1,3 +1,5 @@
+# Problem 2a and 2b completed in ~40 minutes
+
 def convert_file_to_reports(file_path):
     with open(file_path, 'r') as file:
         reports_list = file.read().splitlines() 
